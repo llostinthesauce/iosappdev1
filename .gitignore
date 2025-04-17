@@ -1,0 +1,20 @@
+# Xcode
+*.xcworkspace
+*.xcuserdatad
+*.xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Archives
+*.zip
+
+# macOS
+.DS_Store
+
+# SwiftPM
+.swiftpm/
+Package.resolved
+
+# Xcode Previews
+*.preview-thumbnails
